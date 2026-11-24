@@ -4,7 +4,7 @@ Files:
 - index.html: Main website page
 - style.css: Responsive design and layout
 - script.js: Mobile navigation and current year
-- assets/: Local SVG illustrations
+- assets/: Bundled JPG photo-style visuals and SVG illustrations
 
 PUBLISH ON GITHUB PAGES:
 1. Extract this ZIP.
@@ -30,3 +30,6 @@ IMPORTANT:
 The email address and social media accounts are intentionally not invented or displayed.
 Update the Lead Guru enquiry destination if you have a specific affiliate registration URL.
 Affiliate earnings and lead outcomes are not guaranteed.
+
+IMAGE ASSETS:
+All JPG and SVG images are included locally in assets/. No separate image hosting is needed.
